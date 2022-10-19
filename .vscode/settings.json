@@ -1,0 +1,5 @@
+{
+    "prettier.printWidth": 160,
+    "editor.wordWrapColumn": 160,
+    "html.format.wrapLineLength": 0
+}
